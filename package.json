@@ -1,13 +1,11 @@
 {
-    "name": "replaced-by-user-input",
-    "description": "replaced-by-user-input",
+    "name": "sam-secret-manager",
+    "description": "sam-secret-manager",
     "version": "0.0.1",
     "private": true,
     "dependencies": {},
-    "devDependencies": {
-        "jest": "^26.6.3"
-    },
+    "devDependencies": {},
     "scripts": {
-        "test": "jest"
+        "deploy": "sh deploy.sh"
     }
 }
